@@ -129,7 +129,7 @@ export default function LandingPage() {
           role: "Student",
           company: "Senapati",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BMNzyZqcPDzQIjFIeVa3riraQM/professional-happy-customer-portrait-neu-1774683125831-36f7aab5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BMNzyZqcPDzQIjFIeVa3riraQM/professional-happy-customer-portrait-neu-1774683125831-36f7aab5.png?_wi=1",
         },
         {
           id: "2",
@@ -161,7 +161,7 @@ export default function LandingPage() {
           role: "Business Owner",
           company: "Senapati",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BMNzyZqcPDzQIjFIeVa3riraQM/professional-happy-customer-portrait-neu-1774683125831-36f7aab5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BMNzyZqcPDzQIjFIeVa3riraQM/professional-happy-customer-portrait-neu-1774683125831-36f7aab5.png?_wi=2",
         },
       ]}
       title="Trusted by Locals"
